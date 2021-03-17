@@ -10,5 +10,6 @@ class Shoe
       false
     else
       BRANDS << brand
+    end
   end
 end
